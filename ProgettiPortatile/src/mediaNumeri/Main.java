@@ -1,7 +1,6 @@
 package mediaNumeri;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -10,6 +9,8 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
         
         ArrayList<Integer> evennums = new ArrayList<Integer>();
+        
+        System.out.println("Inserire 3 numeri: ");
         
         while(evennums.size()<3){
             int num = scanner.nextInt();
