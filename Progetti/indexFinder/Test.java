@@ -1,4 +1,4 @@
-package test;
+package indexFinder;
 import java.util.*;
 
 public class Test {
