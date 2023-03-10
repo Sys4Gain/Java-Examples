@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Airplane/src"/>
+	<classpathentry kind="src" path="AWT1/src"/>
+	<classpathentry kind="src" path="AWT2/src"/>
+	<classpathentry kind="src" path="AWT3/src"/>
+	<classpathentry kind="src" path="AWT4/src"/>
+	<classpathentry kind="src" path="AWT5/src"/>
+	<classpathentry kind="src" path="AWT6/src"/>
+	<classpathentry kind="src" path="Data1/src"/>
+	<classpathentry kind="src" path="Data2/src"/>
+	<classpathentry kind="src" path="Data3/src"/>
+	<classpathentry kind="src" path="DiffTempo/src"/>
+	<classpathentry kind="src" path="DiffTempoGrafica/src"/>
+	<classpathentry kind="src" path="EsempioJDBC/src"/>
+	<classpathentry kind="src" path="Esercizi java/Carte da gioco/src"/>
+	<classpathentry kind="src" path="Esercizi java/Garage/src"/>
+	<classpathentry kind="src" path="Esercizi java/GestionePersonale/src"/>
+	<classpathentry kind="src" path="Esercizi java/Gioco dell&apos;oca/src"/>
+	<classpathentry kind="src" path="Esercizi java/ProvaLetturaFile/src"/>
+	<classpathentry kind="src" path="Esercizi java/TestPersona/src"/>
+	<classpathentry kind="src" path="esercizi/Calcolatore E-Liquids/src"/>
+	<classpathentry kind="src" path="esercizi/Configuratore/src"/>
+	<classpathentry kind="src" path="esercizi/Eccezione1/src"/>
+	<classpathentry kind="src" path="esercizi/Eccezione2/src"/>
+	<classpathentry excluding="Ordinatore/|compilatore/" kind="src" path="esercizi/es package"/>
+	<classpathentry kind="src" path="esercizi/es package/compilatore"/>
+	<classpathentry kind="src" path="esercizi/es package/Ordinatore"/>
+	<classpathentry kind="src" path="esercizi/IncDec/src"/>
+	<classpathentry kind="src" path="esercizi/IrrealiReali/src"/>
+	<classpathentry kind="src" path="esercizi/maimin/src"/>
+	<classpathentry kind="src" path="esercizi/Ordinatore/src"/>
+	<classpathentry kind="src" path="esercizi/OrdinatoreGrafica/src"/>
+	<classpathentry kind="src" path="Esercizio14/src"/>
+	<classpathentry kind="src" path="Esercizio15/src"/>
+	<classpathentry kind="src" path="Esercizio16/src"/>
+	<classpathentry kind="src" path="Frutta/src"/>
+	<classpathentry kind="src" path="Prova/src"/>
+	<classpathentry kind="src" path="TestUniversita/src"/>
+	<classpathentry kind="lib" path="ConfigPC/dist/ConfigPC.jar"/>
+	<classpathentry kind="lib" path="ConfigPC/dist/lib/postgresql-9.4.1209.jar"/>
+	<classpathentry kind="lib" path="esercizi/Calcolatore E-Liquids/dist/Calcolatore_E-Liquids.jar"/>
+	<classpathentry kind="lib" path="esercizi/Ordinatore/dist/Ordinatore.jar"/>
+	<classpathentry kind="lib" path="esercizi/OrdinatoreGrafica/dist/OrdinatoreGrafica.jar"/>
+	<classpathentry kind="output" path="AWT1/build/classes"/>
+</classpath>
