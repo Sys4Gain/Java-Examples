@@ -10,8 +10,6 @@ import java.awt.*;
  * @author Utente
  */
 public class AWT1 {
-
-    
     
     public static void main(String[] args) {
         
